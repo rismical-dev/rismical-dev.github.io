@@ -1,2 +1,2 @@
 # rismical-dev.github.io
-# Coming soon!
+# https://github.com/rismical-dev/rismical
