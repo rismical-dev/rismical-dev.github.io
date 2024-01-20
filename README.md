@@ -1,5 +1,3 @@
-# rismical-dev.github.io
-
 # Links to packages
 
 ## Main package of RISMiCal
