@@ -17,6 +17,10 @@ Please cite following papers for your publications including the results obtaine
 1. N. Yoshida and F. Hirata, "A new method to determine electrostatic potential around a macromolecule in solution from molecular wave functions," J. Comput. Chem., 27, (2006), 453-462, (DOI: 10.1002/jcc.20356)
 2. N. Yoshida, "Efficient implementation of the three-dimensional reference interaction site model method in the fragment molecular orbital method," J. Chem. Phys., 140, (2014) 214118 (13pages) (DOI: 10.1063/1.4879795)
 
+*For placevent*
+1. D. Sindhikara, N. Yoshida and F. Hirata, "Placevent: an algorithm for prediction of explicit solvent atom distribution -- application to HIV-1 protease and F-ATP synthase," J. Comput. Chem., 33, (2012) 1536-1543, (DOI: 10.1002/jcc.22984)
+
+
 # Links to packages
 
 ## Main package of RISMiCal
