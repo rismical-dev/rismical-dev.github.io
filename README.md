@@ -6,14 +6,14 @@ This package contains three types of 3D-RISM codes.
 There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded in the RISMiCal itself and 3D-RISM code (single and multi) for GPGPUs provided as an external program.
 
 # References
-Please cite following papers when you publish any publication with the results obtained by RISMiCal.
+Please cite following papers for your publications including the results obtained by RISMiCal.
 1. Y. Maruyama and N. Yoshida, "RISMiCal: A software package to perform fast RISM/3D-RISM calculations," Submitted
 2. N. Yoshida, "The Reference Interaction Site Model Integrated Calculator (RISMiCal) program package for nano- and biomaterials design," IOP Conf. Series: Materials Science and Engineerging, 773 (2020),012062 (DOI: 10.1088/1757-899X/773/1/012062)
 
-For GPGPU code
+*For GPGPU code*
 1. Y. Maruyama and F. Hirata, "Modified Anderson method for accelerating 3D-RISM calculations using graphics processing unit," J. Chem. Theory Comput., 8 (2012) 3015-3021 (DOI: 10.1021/ct300355r) 
 
-For RISM/3D-RISM-SCF
+*For RISM/3D-RISM-SCF*
 1. N. Yoshida and F. Hirata, "A new method to determine electrostatic potential around a macromolecule in solution from molecular wave functions," J. Comput. Chem., 27, (2006), 453-462, (DOI: 10.1002/jcc.20356)
 2. N. Yoshida, "Efficient implementation of the three-dimensional reference interaction site model method in the fragment molecular orbital method," J. Chem. Phys., 140, (2014) 214118 (13pages) (DOI: 10.1063/1.4879795)
 
