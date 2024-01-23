@@ -1,4 +1,4 @@
-![image](RISMiCal_Logo.png)
+![rismical_logo](image/RISMiCal_Logo.png)
 
 # About RISMiCal
 The reference interaction-site model integrated calculator, RISMiCal, provide the RISM and 3D-RISM program codes with support tools for input generation and output analysis.
