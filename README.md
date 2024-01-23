@@ -3,14 +3,14 @@
 # About RISMiCal
 The reference interaction-site model integrated calculator, RISMiCal, provide the RISM and 3D-RISM program codes with support tools for input generation and output analysis.
 This package contains three types of 3D-RISM codes.
-There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded in the RISMiCal itself and 3D-RISM code (single and multi) for GPGPUs provided as an external program.
+There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded in the RISMiCal itself and 3D-RISM code (single and multi) for GPUs provided as an external program.
 
 # References
 Please cite following papers for your publications including the results obtained by RISMiCal.
 1. Y. Maruyama and N. Yoshida, "RISMiCal: A software package to perform fast RISM/3D-RISM calculations," Submitted
 2. N. Yoshida, "The Reference Interaction Site Model Integrated Calculator (RISMiCal) program package for nano- and biomaterials design," IOP Conf. Series: Materials Science and Engineerging, 773 (2020),012062 (DOI: 10.1088/1757-899X/773/1/012062)
 
-*For GPGPU code*
+*For GPU code*
 1. Y. Maruyama and F. Hirata, "Modified Anderson method for accelerating 3D-RISM calculations using graphics processing unit," J. Chem. Theory Comput., 8 (2012) 3015-3021 (DOI: 10.1021/ct300355r) 
 
 *For RISM/3D-RISM-SCF*
@@ -27,10 +27,10 @@ Please cite following papers for your publications including the results obtaine
 
 https://github.com/rismical-dev/rismical
 
-*CUDA version of 3D-RISM code for GPGPU*
+*CUDA version of 3D-RISM code for GPU*
 
 https://github.com/rismical-dev/3D-RISM-CUDA
 
-*MPI/CUDA version of 3D-RISM code for multi-GPGPU*
+*MPI/CUDA version of 3D-RISM code for multi-GPU*
 
 https://github.com/rismical-dev/3D-RISM-CUDA-MPI
