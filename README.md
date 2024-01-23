@@ -40,3 +40,5 @@ https://github.com/rismical-dev/3D-RISM-CUDA-MPI
 Norio YOSHIDA, Prof. of Graduate School of Informatics, Nagoya University
 
 noriwo@nagoya-u.jp
+
+https://sites.google.com/view/yoshida-group/home
