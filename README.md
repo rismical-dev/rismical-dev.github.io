@@ -3,7 +3,7 @@
 # About RISMiCal
 The reference interaction-site model integrated calculator, RISMiCal, provide the RISM and 3D-RISM program codes with support tools for input generation and output analysis.
 This package contains three types of 3D-RISM codes.
-There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded in the RISMiCal itself and 3D-RISM code (single and multi) for GPUs provided as an external program.
+There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded in the RISMiCal itself and 3D-RISM code for (single and multi) GPUs provided as an external program.
 
 # References
 Please cite following papers for your publications including the results obtained by RISMiCal.
