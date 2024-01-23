@@ -34,3 +34,9 @@ https://github.com/rismical-dev/3D-RISM-CUDA
 *MPI/CUDA version of 3D-RISM code for multi-GPU*
 
 https://github.com/rismical-dev/3D-RISM-CUDA-MPI
+
+# Contact Information
+
+Norio YOSHIDA, Prof. of Graduate School of Informatics, Nagoya University
+
+noriwo@nagoya-u.jp
