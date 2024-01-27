@@ -23,15 +23,15 @@ Please cite following papers for your publications including the results obtaine
 
 # Links to packages
 
-*Main package of RISMiCal*
+- *Main package of RISMiCal*
 
 https://github.com/rismical-dev/rismical
 
-*CUDA version of 3D-RISM code for GPU*
+- *CUDA version of 3D-RISM code for GPU*
 
 https://github.com/rismical-dev/3D-RISM-CUDA
 
-*MPI/CUDA version of 3D-RISM code for multi-GPU*
+- *MPI/CUDA version of 3D-RISM code for multi-GPU*
 
 https://github.com/rismical-dev/3D-RISM-CUDA-MPI
 
