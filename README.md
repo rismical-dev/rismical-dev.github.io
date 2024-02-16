@@ -32,8 +32,12 @@ Please cite following papers for your publications including the results obtaine
 </html>
 
 - *CUDA version of 3D-RISM code for GPU*
-
-  https://github.com/rismical-dev/3D-RISM-CUDA
+<!DOCTYPE html>
+<html>
+  <body>
+  <a href="https://github.com/rismical-dev/3D-RISM-CUDA"> https://github.com/rismical-dev/3D-RISM-CUDA</a>
+  </body>
+</html>
 
 - *MPI/CUDA version of 3D-RISM code for multi-GPU*
 
