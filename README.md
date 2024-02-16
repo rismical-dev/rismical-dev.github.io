@@ -24,8 +24,12 @@ Please cite following papers for your publications including the results obtaine
 # Links to packages
 
 - *Main package of RISMiCal*
-
+<!DOCTYPE html>
+<html>
+  <body>
   <a href="https://github.com/rismical-dev/rismical"> https://github.com/rismical-dev/rismical</a>
+  </body>
+</html>
 
 - *CUDA version of 3D-RISM code for GPU*
 
