@@ -25,15 +25,15 @@ Please cite following papers for your publications including the results obtaine
 
 - *Main package of RISMiCal*
 
-  https://github.com/rismical-dev/rismical
+  [https://github.com/rismical-dev/rismical](https://github.com/rismical-dev/rismical)
 
 - *CUDA version of 3D-RISM code for GPU*
 
-  https://github.com/rismical-dev/3D-RISM-CUDA
+  [https://github.com/rismical-dev/3D-RISM-CUDA](https://github.com/rismical-dev/3D-RISM-CUDA)
 
 - *MPI/CUDA version of 3D-RISM code for multi-GPU*
 
-  https://github.com/rismical-dev/3D-RISM-CUDA-MPI
+  [https://github.com/rismical-dev/3D-RISM-CUDA-MPI](https://github.com/rismical-dev/3D-RISM-CUDA-MPI)
 
 # Contact Information
 
@@ -41,4 +41,4 @@ Norio YOSHIDA, Prof. of Graduate School of Informatics, Nagoya University
 
 noriwo@nagoya-u.jp
 
-https://sites.google.com/view/yoshida-group/home
+[https://sites.google.com/view/yoshida-group/home](https://sites.google.com/view/yoshida-group/home)
