@@ -25,7 +25,7 @@ Please cite following papers for your publications including the results obtaine
 
 - *Main package of RISMiCal*
 
-  https://github.com/rismical-dev/rismical
+  <a href="https://github.com/rismical-dev/rismical"> https://github.com/rismical-dev/rismical</a>
 
 - *CUDA version of 3D-RISM code for GPU*
 
