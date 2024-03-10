@@ -42,3 +42,11 @@ Norio YOSHIDA, Prof. of Graduate School of Informatics, Nagoya University
 noriwo@nagoya-u.jp
 
 [https://sites.google.com/view/yoshida-group/home](https://sites.google.com/view/yoshida-group/home)
+
+# Acknowledgement
+
+- Dr. Daniel J. Shindhikara, Merk
+- Prof. Daisuke Takahashi, Tsukuba University
+- Prof. Tsuyoshi Yamaguchi, Nagoya University
+- Prof. Saree Phongphanphanee, Kasetsart University
+- Prof. Fumio Hirata, Institute for Molecular Science
