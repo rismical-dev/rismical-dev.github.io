@@ -7,7 +7,7 @@ There are two types of 3D-RISM code: 3D-RISM code that runs on the CPU embedded 
 
 # References
 Please cite following papers for your publications including the results obtained by RISMiCal.
-1. Y. Maruyama and N. Yoshida, "RISMiCal: A software package to perform fast RISM/3D-RISM calculations," Submitted
+1. Y. Maruyama and N. Yoshida, "RISMiCal: A software package to perform fast RISM/3D-RISM calculations," J. Comput. Chem., (2024) 45, 1470-1482 (DOI: 10.1002/jcc.27340)
 2. N. Yoshida, "The Reference Interaction Site Model Integrated Calculator (RISMiCal) program package for nano- and biomaterials design," IOP Conf. Series: Materials Science and Engineerging, 773 (2020),012062 (DOI: 10.1088/1757-899X/773/1/012062)
 
 *For GPU code*
