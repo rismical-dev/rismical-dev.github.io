@@ -45,9 +45,9 @@ noriwo@nagoya-u.jp
 
 # Development team
 
-Yutaka Maruyama, Dr. The University of Osaka
+Yutaka Maruyama, Dr., The University of Osaka
 
-Norio Yoshida, Dr. Nagoya University
+Norio Yoshida, Dr., Nagoya University
 
 # Acknowledgement
 
